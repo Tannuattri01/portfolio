@@ -47,7 +47,7 @@ body{
         width: 400px;
         position: relative;
         bottom: -485px;
-        left: 18px;
+        left: 8px;
     }
     .alag{
         display: block;
@@ -369,6 +369,7 @@ body{
 @media screen and (max-width:600px){
     .last{
       height: 332px;
+     width:184px;
       position: absolute;
       bottom: -3600px;
       left:74px;
@@ -384,12 +385,12 @@ body{
    }
    .img12{
       position: relative;
-      right: 43px;
+      right: 37px;
       top: 400px;
    }
    .img11,.img10,.img9,.img8{
     position: relative;
-      right: 43px;
+      right: 37px;
       top: 400px;
    }
    .recently{
